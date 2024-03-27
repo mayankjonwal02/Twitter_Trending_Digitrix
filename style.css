@@ -1,0 +1,45 @@
+
+.codehap_IMG{clip-path: circle();}
+.page_404{ padding:40px 0;  
+}
+
+.page_404  img{ width:100%;}
+
+.four_zero_four_bg{
+ 
+ background-image: url(/images/404.gif);
+    height: 400px;
+    background-position: center;
+ }
+ 
+ 
+ .four_zero_four_bg h1{
+ font-size:80px;
+ }
+ 
+  .four_zero_four_bg h3{
+          font-size:80px;
+          }
+          
+        
+
+.codehap_img{background: #fff; border-radius: 10px;}
+   .small{font-size: 12px; line-height: 14px;}
+
+
+ 
+
+ .codehap_slide_btn{ 
+ margin: 0px;
+ 
+  background: none;
+   border: none; 
+   
+}
+
+  #codehap_container{
+
+width: 100%;
+overflow-x: scroll;
+
+}
